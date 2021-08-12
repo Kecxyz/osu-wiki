@@ -40,7 +40,7 @@ Moddung là quá trình của những người chơi khác (còn được gọi 
 
 Skinning cho phép tất cả mọi người thay đổi cách osu! nhìn và cảm nhận. Việc này có thể nhỏ như thay đổi con trỏ của bạn cho đến to như thay đổi bề ngoài của tất cả chế độ chơi giao diện.
 
-## osu! wiki - Làm thế bạn có thể giúp!
+## osu! wiki - Làm thế nào bạn có thể giúp!
 
 Kể từ 26-08-2016, osu! wiki đã được chuyển đến một repository ở GitHub. Sau thay đổi này, quy trình để đóng góp đã thay đồi rất nhiều. Tất cả những đóng góp giờ phải thông qua [Repository của osu-wiki](https://github.com/ppy/osu-wiki) để được đánh giá trước khi được thông qua và xác nhập vào osu! wiki.
 
