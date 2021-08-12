@@ -65,7 +65,7 @@ Có 2 cách để thêm beatmaps vào game, qua website hoặc sử dụng osu!d
 
 1. Hướng tới [diễn đàn skinning](https://osu.ppy.sh/community/forums/15) và tìm một skin bạn thích.
 2. Khi bạn tìm thấy cái bạn thích, tải nó xuống.
-3. Tùy theo cách người sáng tạo skin đóng gói skin của họ, bạn sẽ phải làm những thứ khác nhau.
+3. Tùy theo cách người tạo skin đóng gói skin của họ, bạn sẽ phải làm những thứ khác nhau.
    - Nếu như skin sử dụng `.osk`:
      1. Mở nó hoặc kéo thả vào osu!.
      2. osu! sẽ xử lý skin và tự động chọn nó cho bạn.
