@@ -38,7 +38,7 @@ Modding là quá trình của những người chơi (còn được gọi là "n
 
 *Xem thêm: [Hướng dẫn Skinning](/wiki/Skinning/Guides_and_important_threads)*
 
-Skinning cho phép tất cả mọi người thay đổi cách osu! nhìn và cảm nhận. Việc này có thể nhỏ như thay đổi con trỏ của bạn cho đến to như thay đổi bề ngoài của tất cả chế độ chơi giao diện.
+Skinning cho phép tất cả mọi người thay đổi cách nhìn và cảm nhận osu!. Việc này tuy nhỏ như thay đổi con trỏ của bạn cho đến to như thay đổi bề ngoài của tất cả chế độ chơi và giao diện.
 
 ## osu! wiki - Làm thế nào bạn có thể giúp!
 
