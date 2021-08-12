@@ -15,7 +15,7 @@ osu! có một vài tài khoản Twitter khác nhau, mỗi cái phục vụ cho 
 | :-: | :-: | :-- |
 | ![osu! avatar](img/osugame.jpg) | [@osugame](https://twitter.com/osugame "Twitter") | Kênh thông tin chính. |
 | ![BanchoBoat avatar](img/banchoboat.jpg) | [@banchoboat](https://twitter.com/banchoboat "Twitter") | Mua vui cho cộng đồng khi có vấn đề xảy ra. |
-| ![NAT avatar](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat "Twitter") | Tin tức, thông báo và khảo sát cộng đồng bởi [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) (không được chạy bởi [đội ngũ osu!](/wiki/People/The_Team#the-team)). |
+| ![NAT avatar](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat "Twitter") | Tin tức, thông báo và khảo sát cộng đồng bởi [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) (không được điều hành bởi [đội ngũ osu!](/wiki/People/The_Team#the-team)). |
 
 ## Cá nhân
 
