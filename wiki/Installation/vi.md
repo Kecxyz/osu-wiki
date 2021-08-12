@@ -11,7 +11,7 @@ Trang này sẽ hướng dẫn bạn làm thế nào để làm osu! hoạt đ�
 
 ## Cài đặt osu!
 
-1. Hướng đển [trang tải](https://osu.ppy.sh/home/download) và tải về bộ tải.
+1. Hướng đển [trang tải](https://osu.ppy.sh/home/download) và tải về bộ cài.
 2. Tìm và chạy bộ cài.
 3. Khi bộ cài bắt đầu chạy bạn có 10 giây để chọn vì trí cài đặt.
    - Nêu bạn muốn đổi vị trí cài đặt, ấn vào dòng chữ phía dưới chứ `Hi!` và chọn vị trí cài đặt.
