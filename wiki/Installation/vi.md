@@ -30,7 +30,7 @@ Nếu bạn đang sử dụng một bản cài đặt 64-bit của Windows 7, b�
 **Nếu như bộ cài thông báo lỗi khi bạn cài đặt, bạn có thể thử những điều sau:**
 
 - Hãy thử cài đặt phiên bản mới nhất của .NET Framework. [Bạn có thể tìm thấy nó tại đây](https://dotnet.microsoft.com/download/dotnet-framework).
-- Dọn PC của bạn - Quét máy với phần mềm diệt virus, dọn registry. Một phần mềm thường được giới thiệu để dọn dẹp là CCleaner. Quét cả files trên máy tính lẫn registry của bạn. Bộ cài cũng có thể gặp phải lỗi nếu như registry vẫn còn giá trị của một phiên bản osu! trước đó trong thiết bị của bạn.
+- Dọn PC của bạn - Quét máy với phần mềm diệt virus, dọn registry. Một phần mềm thường dùng để dọn dẹp là CCleaner. Quét cả tệp trên máy tính lẫn registry của bạn. Bộ cài cũng có thể gặp phải lỗi nếu như registry vẫn còn giá trị của một phiên bản osu! trước đó trong thiết bị của bạn.
 
 ## Thêm Beatmaps
 
