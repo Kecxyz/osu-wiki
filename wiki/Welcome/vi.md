@@ -6,7 +6,7 @@ Chào mừng đên osu!, một trò chơi nhịp điệu được lập trình b
 
 - [Cài đặt](/wiki/Installation)
 - [Đăng kí](/wiki/Registration)
-- [Luật lệ](/wiki/Rules)
+- [Nội quy](/wiki/Rules)
 - [FAQ](/wiki/FAQ)
 - [Chế độ chơi](/wiki/Game_mode)
   - ![osu! mode icon](/wiki/shared/mode/osu.png) [osu!](/wiki/Game_mode/osu!)
