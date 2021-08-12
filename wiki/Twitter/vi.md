@@ -7,7 +7,7 @@ osu! có một vài tài khoản Twitter khác nhau, mỗi cái phục vụ cho 
 | Ảnh đại diện | Tên tài khoản | Mô tả |
 | :-: | :-: | :-- |
 | ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://twitter.com/osustatus "Twitter") | Nơi thông báo về những trục trặc của website và [Bancho](/wiki/Bancho_(server)). |
-| ![osu! support avatar](img/osusupport.jpg) | [@osusupport](https://twitter.com/osusupport "Twitter") | Hỗ trợ bạn về tài khoản và/hoắc những vấn đề cộng đồng. Được hoạt động bởi [đội hỗ trợ tài khoản](/wiki/People/The_Team/Account_support_team). |
+| ![osu! support avatar](img/osusupport.jpg) | [@osusupport](https://twitter.com/osusupport "Twitter") | Hỗ trợ bạn về tài khoản và/hoặc những vấn đề cộng đồng. Được vận hành bởi [đội hỗ trợ tài khoản](/wiki/People/The_Team/Account_support_team). |
 
 ## Cộng đồng
 
