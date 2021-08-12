@@ -6,7 +6,7 @@ Trang này sẽ hướng dẫn bạn làm thế nào để làm osu! hoạt đ�
 
 ## Yêu cầu tối thiểu 
 
-- .NET framework 4+ (bộ cài thường sẽ nhắc bạn để cài đặt nó, nếu không thì bạn có thể [tải nó tại](https://www.microsoft.com/en-us/download/details.aspx?id=48130)).
+- .NET framework 4.5.2+ (bộ cài thường sẽ nhắc bạn để cài đặt nó, nếu không thì bạn có thể [tải nó tại đây](https://dotnet.microsoft.com/download/dotnet-framework)).
 - Một bộ xử lí đồ họa thường thường.
 
 ## Cài đặt osu!
