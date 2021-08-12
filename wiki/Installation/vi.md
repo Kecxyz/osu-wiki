@@ -43,7 +43,7 @@ Có 2 cách để thêm beatmaps vào game, qua website hoặc sử dụng osu!d
 1. Đi tới [trang danh sách beatmap](https://osu.ppy.sh/beatmapsets) và đăng nhập vào web.
 2. Tìm bài hát mà bạn muốn chơi.
 3. Ấn vào nút tải xuống và lưu beatmap về máy tính của bạn.
-4. Tìm và mở beatmap file, nó có đuôi `.osz`.
+4. Tìm và mở tệp beatmap, nó có đuôi `.osz`.
    - Ngoài ra, bạn có thể đặt file vào thư mục `Songs` bên trong nơi cài đặt osu!. 
 5. osu! sẽ tự động xử lí nó cho bạn.
    - Nếu vì lí do nào đó mà bạn không thấy beatmap đó, ấn `F5` trong [Màn hinh chọn nhạc](/wiki/Interface#song-selection-screen) để soát lại beatmap của bạn.
