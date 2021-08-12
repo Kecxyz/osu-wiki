@@ -71,7 +71,7 @@ Có 2 cách để thêm beatmaps vào game, qua website hoặc sử dụng osu!d
      2. osu! sẽ xử lý skin và tự động chọn nó cho bạn.
    - Nếu như skin bị nén (sử dụng `.7z`, `.rar`, `.zip`, v.v.):
      1. Giải nén nó.
-     2. Chuyển folder đã được giải nén ra đến thư mục `Skins` trong nơi cài đặt osu!.
+     2. Chuyển folder vừa được giải nén tới thư mục `Skins` trong nơi cài đặt osu!.
      3. Nếu osu! đang chạy, skin đó sẽ chỉ hiển thị sau khi bạn ấn tổ hợp phím `Ctrl` + `Alt` + `Shift` + `S`.
      4. Trong osu!, vào phần [Cài đặt](/wiki/Options) và tìm phần `Skin`.
      5. Lăn chuột xuống phần `Current skin:` và chọn skin mà bạn đã tải.
