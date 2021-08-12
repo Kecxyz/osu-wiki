@@ -19,7 +19,7 @@ Trang này sẽ hướng dẫn bạn làm thế nào để làm osu! hoạt đ�
 4. Sau khi bộ cài hoàn tất, osu! sẽ xuất hiện. osu!direct sẽ được sử dụng để tải xuống một vài beatmap khởi đầu cho bạn.
 5. osu! sẽ yêu cầu bạn đăng nhập hoặc đăng kí.
    - Nếu bạn đã có tài khoản, đăng nhập. 
-   - Và nếu bạn muốn đăng kí, đọc [Đăng kí](/wiki/Registration).
+   - Nếu bạn muốn đăng kí, đọc [Đăng kí](/wiki/Registration).
 
 ## Trợ giúp
 
