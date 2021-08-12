@@ -42,6 +42,6 @@ Skinning cho phép tất cả mọi người thay đổi cách osu! nhìn và c�
 
 ## osu! wiki - Làm thế nào bạn có thể giúp!
 
-Kể từ 26-08-2016, osu! wiki đã được chuyển đến một repository ở GitHub. Sau thay đổi này, quy trình để đóng góp đã thay đồi rất nhiều. Tất cả những đóng góp giờ phải thông qua [Repository của osu-wiki](https://github.com/ppy/osu-wiki) để được đánh giá trước khi được thông qua và xác nhập vào osu! wiki.
+Kể từ 26-08-2016, osu! wiki đã được chuyển đến một repository ở GitHub. Sau thay đổi này, quy trình đóng góp đã thay đổi rất nhiều. Tất cả những đóng góp giờ phải thông qua [Repository của osu-wiki](https://github.com/ppy/osu-wiki) để được đánh giá trước khi được phê duyệt và thêm vào osu! wiki.
 
 Để bắt đầu, hãy xem [hướng dẫn đóng góp cho osu! wiki](/wiki/osu!_wiki_Contribution_Guide).
