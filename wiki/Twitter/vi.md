@@ -1,6 +1,6 @@
 # Twitter
 
-osu! có một vài tài khoản Twitter khác nhau để phục vụ những mục đích khác nhau. Phần lớn tài khoản này không hoạt động nhiều nhưng chúng sẽ giúp bạn cập nhật với tin tức về osu!.
+osu! có một vài tài khoản Twitter khác nhau, mỗi cái phục vụ cho mục đích cụ thể. Phần lớn trong số đó ít khi hoạt động nhưng chúng sẽ giúp bạn nắm bắt được thông tin ở ngoài hệ sinh thái osu!.
 
 ## Dịch vụ
 
