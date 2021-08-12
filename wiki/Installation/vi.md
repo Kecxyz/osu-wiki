@@ -15,7 +15,7 @@ Trang này sẽ hướng dẫn bạn làm thế nào để làm osu! hoạt đ�
 2. Tìm và chạy bộ cài.
 3. Khi bộ cài bắt đầu chạy bạn có 10 giây để chọn vị trí cài đặt.
    - Nêu bạn muốn đổi vị trí cài đặt, ấn vào dòng chữ phía dưới chữ `Hi!` và chọn vị trí cài đặt.
-   - osu! sẽ được cài đặt vào vị trí đó sau khi đếm ngược hoàn tất. 
+   - osu! sẽ được cài đặt vào vị trí đó sau khi đếm ngược kết thúc. 
 4. Sau khi bộ cài hoàn tất, osu! sẽ xuất hiện. osu!direct sẽ được sử dụng để tải xuống một vài beatmap khởi đầu cho bạn.
 5. osu! sẽ yêu cầu bạn đăng nhập hoặc đăng kí.
    - Nếu bạn đã có tài khoản, đăng nhập. 
