@@ -30,7 +30,7 @@ Beatmapping là quá trình của một người sáng tạo làm ra beatmap. Qu
 
 *Trang chính: [Modding](/wiki/Modding)*
 
-Modding là quá trình của những người chơi (còn được gọi là "người mod") đánh giá beatmap của một người sáng tạo khác trong giai đoạn chờ đợi xếp hạng (hoặc đang tiến hành/cần giúp đỡ). Modding có một vai trò rất quan trọng trong quá trình đảm bảo chất lượng, bởi vì modding giúp những người sáng tạo sửa chữa những vấn đề với beatmap của họ.
+Modding là quá trình của những người chơi (còn được gọi là "modder") đánh giá beatmap của một người sáng tạo khác trong giai đoạn chờ đợi xếp hạng (hoặc đang tiến hành/cần giúp đỡ). Modding có một vai trò rất quan trọng trong quá trình đảm bảo chất lượng, bởi vì modding giúp những người sáng tạo sửa chữa những vấn đề với beatmap của họ.
 
 ## Skinning
 
