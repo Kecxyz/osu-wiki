@@ -4,7 +4,7 @@
 
 Trang này sẽ hướng dẫn bạn làm thế nào để làm osu! hoạt động trên thiết bị Windows của bạn. [osu!academy](/wiki/osu!academy) đã có một [video hướng dẫn](https://www.youtube.com/watch?v=0V5GwzmMhpU) làm thế nào để cài đặt osu! trên Windows.
 
-## Yêu cầu tối thiểu 
+## Yêu cầu tối thiểu
 
 - .NET framework 4.5.2+ (bộ cài thường sẽ nhắc bạn để cài đặt nó, nếu không thì bạn có thể [tải nó tại đây](https://dotnet.microsoft.com/download/dotnet-framework)).
 - Một bộ xử lí đồ họa thường thường.
@@ -15,10 +15,10 @@ Trang này sẽ hướng dẫn bạn làm thế nào để làm osu! hoạt đ�
 2. Tìm và chạy bộ cài.
 3. Khi bộ cài bắt đầu chạy bạn có 10 giây để chọn vị trí cài đặt.
    - Nêu bạn muốn đổi vị trí cài đặt, ấn vào dòng chữ phía dưới chữ `Hi!` và chọn vị trí cài đặt.
-   - osu! sẽ được cài đặt vào vị trí đó sau khi đếm ngược kết thúc. 
+   - osu! sẽ được cài đặt vào vị trí đó sau khi đếm ngược kết thúc.
 4. Sau khi bộ cài hoàn tất, osu! sẽ xuất hiện. osu!direct sẽ được sử dụng để tải xuống một vài beatmap khởi đầu cho bạn.
 5. osu! sẽ yêu cầu bạn đăng nhập hoặc đăng kí.
-   - Nếu bạn đã có tài khoản, đăng nhập. 
+   - Nếu bạn đã có tài khoản, đăng nhập.
    - Nếu bạn muốn đăng kí, đọc [Đăng kí](/wiki/Registration).
 
 ## Trợ giúp
@@ -54,7 +54,7 @@ Có 2 cách để thêm beatmaps vào game, qua website hoặc sử dụng osu!d
 
 1. Mở osu! và ấn vào nút osu!direct ở phía bên phải của màn hình chính.
 2. Tìm bài hát mà bạn muốn chơi.
-3. Nhấn đúp vào bài hát trong danh sách hoặc ấn vào nút `Download` ở bên phải để tải xuống. 
+3. Nhấn đúp vào bài hát trong danh sách hoặc ấn vào nút `Download` ở bên phải để tải xuống.
    - Nếu như bạn không muốn tải xuống video đi kèm với beatmap, ấn vào nút `DL NoVideo`.
 4. Sau khi osu! hoàn tất tải xuống beatmap, nó sẽ tự động hiện lên khi bạn vào màn hình chọn bài hát.
    - Nếu vì lí do nào đó mà bạn không thấy beatmap đó, ấn `F5` trong [Màn hinh chọn bài hát](/wiki/Interface#song-selection-screen) để rà soát lại beatmap của bạn.
