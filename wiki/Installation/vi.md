@@ -59,7 +59,7 @@ Có 2 cách để thêm beatmaps vào game, qua website hoặc sử dụng osu!d
 4. Sau khi osu! hoàn tất tải xuống beatmap, nó sẽ tự động hiện lên khi bạn vào màn hình chọn nhạc. 
    - Nếu vì lí do nào đó mà bạn không thấy beatmap đó, ấn `F5` trong [Màn hinh chọn bài hát](/wiki/Interface#song-selection-screen) để rà soát lại beatmap của bạn.
 
-## Thêm skins
+## Thêm skin
 
 *Xem thêm: [Skinning](/wiki/Skinning)*
 
