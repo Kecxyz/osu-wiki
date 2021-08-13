@@ -1,6 +1,6 @@
 # Chào mừng
 
-Chào mừng đến osu!, một trò chơi nhịp điệu được phát triển bởi peppy với 4 chế độ chơi: osu!, chế độ bấm vòng tròn; osu!taiko, chế độ đánh trống; osu!catch, chế độ hứng quả; và osu!mania, chế độ bấm phím.
+Chào mừng đến osu!, một trò chơi nhịp điệu được phát triển bởi peppy với 4 chế độ chơi: osu!, chế độ bấm vòng tròn; osu!taiko, chế độ đánh trống; osu!catch, chế độ hứng quả; và osu!mania, chế độ .
 
 ## Một vài điều cơ bản
 
